@@ -1,0 +1,66 @@
+Nữa năm từ Tháng 1 - Tháng 6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nữa năm từ Tháng 7 - Tháng 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Order #,Surname/ Tên Họ,First Name/ Tên Riêng,7-Jan,14-Jan,21-Jan,28-Jan,4-Feb,11-Feb,18-Feb,25-Feb,3-Mar,10-Mar,17-Mar,24-Mar,31-Mar,7-Apr,14-Apr,21-Apr,28-Apr,5-May,12-May,19-May,26-May,2-Jun,9-Jun,16-Jun,23-Jun,Jun-30,Order #,Surname/ Tên Họ,First Name/ Tên Riêng,7-Jul,14-Jul,21-Jul,28-Jul,4-Aug,11-Aug,18-Aug,25-Aug,1-Sep,8-Sep,15-Sep,22-Sep,29-Sep,6-Oct,13-Oct,20-Oct,27-Oct,3-Nov,10-Nov,17-Nov,24-Nov,1-Dec,8-Dec,15-Dec,22-Dec,29-Dec
+1,Hood,Angela,X,X,X,X,X,X,X,x,X,X,X,X,X,X ,X,X,X,X,X,X,X,X,X,,X,X,1,Hood ,Hannah,X,X,X,X,x,X,X,X,X,X,X,X,X,X,X,X,,,x,x,x,x,x,x,x,x
+2,Hood ,Hannah,X,X,X,X,X,X,X,x,X,X,X,X,X,X ,X,X,X,X,X,X,X,X,X,,X,X,2,Trần,Ethan,X,X,X,X,x,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,,X,X,X
+3,Đinh,Bryan ,,X,X,X,X,X,,X,X,X,X,X,X,X ,X,X,X,X,X,,C,X,X,X,X,X,3,Morgan,Harrison,,X,,,,,,,,,,,,,,,,,,,,,,,,
+4,Trần,Ethan,,X,,,,X,,X,,X,X,,X,X ,,,X,,X,,,,,X,,,4,Nguyễn ,Jordan,X,X,,X,x,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+5,Morgan,Harrison,,X,,X,X,X,,,,,X,,X,,,X,,X,X,,,,,,,,5,Trần,Lucas,X,X,X,X,x,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+6,Nguyễn ,Jordan,X,X,X,X,X,X,X,,X,X,X,X,X,X ,X,X,X,X,X,X,C,X,X,X,X,X,6,Morgan,Madeliene,,X,,,,,,,,,,,,,,,,,,,,,,,,
+7,Trần,Lucas,,X,,,,X,,X,,X,X,,X,X ,,,X,,X,,,,,X,,,7,Morgan,Olivia,,X,,,,,,,,,,,,,,,,,,,,,,,,
+8,Morgan,Madeliene,,X,X,X,X,X,,,,,X,,X,,,X,,X,X,,,,,,,,8,Bùi,Sarah,X,X,X,X,x,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+9,Morgan,Olivia,,X,X,X,X,X,,,,,X,,X,,,X,,X,X,,,,,,,,9,Nguyễn,Sophia,X,X,X,X,x,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+10,Bùi,Sarah,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,X,X,C,X,X,X,HD,X,10,Nguyễn,Phuong Mi,X,X,X,X,x,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+11,Nguyễn,Sophia,x,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,C,X,X,X,X,X,11,Phạm,Jiyoung,X,X,X,X,x,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+12,Nguyễn,Phuong Mi,x,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,C,X,X,X,X,X,12,Phạm,Jihyun,X,X,X,X,x,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+13,Phạm,Jieun,x,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,C,X,X,X,X,X,13,Phạm,Jihye,X,X,X,X,x,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+14,Phạm,Jiyoung,x,X,X,X,X,X,X,X,X,X,X, X,X,X,X,X,X,X,X,X,C,X,X,X,X,X,14,Võ ,Con Quang,X,X,X,X,x,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+15,Phạm,Jihyun,x,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,C,X,X,X,X,X,15,Võ ,Sophia,X,X,X,X,x,X,X,X,X,,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+16,Phạm,Jihye,x,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,C,X,X,X,X,X,16,Lê,Jeremiah,X,X,X,X,x,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+17,Võ ,Con Quang,X,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,C,X,X,X,X,X,17,Lê,Joseph ,X,,X,X,x,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+18,Võ ,Sophia,X,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,C,X,X,X,X,X,18,Jeong,Christian,,,,,,X,X,X,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+19,Nguyễn ,Khôi,X,X,,X,X,X,X,X,X,X,X,,X,,X,X,X,,X,X,X,X,X,X,X,X,19,Huỳnh ,Huy,X,X,X,X,x,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+20,Lê,Jeremiah,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,X,X,C,X,X,X,X,X,20,Võ ,Amanda,,X,X,X,,X,,,,,,,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+21,Lê,Joseph ,,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,X,X,C,X,X,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,Jeong,Christian,X,X,X,X,X,X,X,X,,X,,,X,X,X,X,X,X,X,X,X,X,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,Huỳnh ,Huy,X,X,X,X,X,X,X,X,X,X,X,X,X,X,,X,X,X,X,X,C,X,X,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Hiện diện,15,21,19,21,21,23,17,19,17,20,22,16,23,19,17,21,20,17,23,17,18,18,18,18,18,17,,,Hiện diện,15,18,15,16,15,14,14,16,15,15,15,15,17,17,17,17,16,16,17,17,17,16,16,17,17,17
+,,Vắng,13,7,9,7,7,5,11,9,11,8,6,12,5,9,11,7,8,11,5,11,10,10,10,10,10,11,,,Vắng,7,4,7,6,7,8,8,6,7,7,7,7,5,5,5,5,6,6,5,5,5,6,6,5,5,5
+,,Total,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,,,Total,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Guests/ Quý Khách,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Guests/ Quý Khách,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,Con Võ Hoàng Ngọc ,Con Võ Hoàng Ngọc ,Con Võ Hoàng Ngọc ,Jessica con Chi Loan ,Con Võ Hoàng Ngọc ,,Con Võ Hoàng Ngọc ,,Con Võ Hoàng Ngọc ,Con Võ Hoàng Ngọc ,Alyvia Nick Daughter,,Con Võ Hoàng Ngọc ,Con Võ Hoàng Ngọc ,,Con Võ Hoàng Ngọc ,Con Võ Hoàng Ngọc ,,Con Võ Hoàng Ngọc ,Eric,Eric,Eric,Eric,,,,Eric,Eric,Trevor Bui,Con Võ Hoàng Ngọc ,,,Nico Cháu Cô Phú,,,Alyvia Nick Daughter,Peter Nguyen,Peter Nguyen,Peter Nguyen,Peter Nguyen,Peter Nguyen,Peter Nguyen,Peter Nguyen,Peter Nguyen,,,Peter Nguyen,,Peter Nguyen,,Peter Nguyen,
+,,,,,,,,Cháu Hùng Du ,Con #1 Thiện Tiên,,,,,Adin cháu C Liên,Cháu OB Huỳnh Tươi ,Con em gái Peter,,Noah cháu OB Luôn,Alyvia Nick Daughter,,,,,Eric,,Con Võ Hoàng Ngọc ,Con Võ Hoàng Ngọc ,,,,,,Con Võ Hoàng Ngọc ,,,,,Anh Nico Cháu Cô Phú ,,,#1 Cháu Anh Hùng ,,Cháu Cô Phú Julie,,,,,,,,,Anne Nguyen,,,,Con #1 OBMS An,
+,,,,,,,,Cháu Bà Phú #1,Con #2 Thiện Tiên,,,,,Wren cháu C Liên,Alyvia Nick Daughter,Con em gái Peter,,,#1 Cháu Anh Hùng ,,,,,,,Con Hien Tien #1,,,,,,,,,,,,,,,#2 Cháu Anh Hùng ,,,,,,,,,,,,,,,Con #2 OBMS An,
+,,,,,,,,Cháu Bà Phú #2,,,,,,Evan cháu C Liên,,Con em gái Peter,,,#2 Cháu Anh Hùng ,,,,,,,Con Hien Tien #2,,,,,,,,,,,,,,,Alyvia's brother,,,,,,,,,,,,,,,Con #3 OBMS An,
+,,,,,,,,Con Guest #1&2 | #1,,,,,,Nico cháu C Liên,,Con em gái Peter,,,Alyvia's brother,,,,,,,,,,,,,,,,,,,,,,Alyvia's brother #2,,,,,,,,,,,,,,,Con #1 Cô Phương ,
+,,,,,,,,Con Guest #1&2 | #2,,,,,,Con Charlie & Mimi,,Con em gái Peter,,,Con Thịnh & Nga #1,,,,,,,,,,,,,,,,,,,,,,Peter Nguyen,,,,,,,,,,,,,,,Con #2 Cô Phương ,
+,,,,,,,,Con Guest #1&2 | #3,,,,,,,,Alyvia's brother,,,Con Thịnh & Nga #2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Con Cuong Kieu,
+,,,,,,,,Con Guest #1&2 | #4,,,,,,,,Alyvia's brother #2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Con Guest #1&2 | #5,,,,,,,,Con Dau Con ba Phu #2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Peter con Khuong,,,,,,,,Con Dau Con ba Phu #2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Con Bạn Quang Tâm,,,,,,,,Aaron cháu Anh Hùng ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,#1 Con Anh Quang (Khách),,,,,,,,#1 Cháu Anh Hùng ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,#2 Con Anh Quang (Khách),,,,,,,,#2 Cháu Anh Hùng ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,#3 Con Anh Quang (Khách),,,,,,,,Con AC Cuong Kieu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,tổng số quý khách hiện diện,,0,0,0,1,1,14,3,1,0,1,0,6,3,14,0,2,7,0,1,1,0,2,1,4,2,1,,tổng số quý khách hiện diện,,1,2,1,1,0,0,2,0,0,6,1,2,1,1,1,1,1,1,0,0,2,0,1,0,7,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,tổng số người Hiện diện,,15,21,19,22,22,37,20,20,17,21,22,22,26,33,17,23,27,17,24,18,18,20,19,22,20,18,,tổng số người Hiện diện,,16,20,16,17,15,14,16,16,15,21,16,17,18,18,18,18,17,17,17,17,19,16,17,17,24,17
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,NUmber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Khách Có Mặt,1.865384615,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Thành Viên Có Mặt,17.53846154,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Thành Viên Vắng Mặt,7.461538462,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
